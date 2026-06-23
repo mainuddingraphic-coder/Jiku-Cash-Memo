@@ -1,0 +1,6 @@
+{
+  "name": "Jiku Cash Memo",
+  "description": "Bilingual Android POS and Cash Memo application containing clean offline-first workflows, PDF generation, and standard data management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
